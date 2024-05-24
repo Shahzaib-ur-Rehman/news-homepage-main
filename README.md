@@ -15,7 +15,7 @@ Users should be able to:
 ### Links
 
 - Solution URL: [Github](https://github.com/Shahzaib-ur-Rehman/news-homepage-main)
-- Live Site URL: [News-homepage-main](https://your-live-site-url.com)
+- Live Site URL: [News-homepage-main](https://news-homepage-main-three-nu.vercel.app/)
 
 ## My process
 
